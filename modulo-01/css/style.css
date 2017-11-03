@@ -160,6 +160,9 @@ h3 {
 
 */
 
+
+/*Aprendendo a mexer com Box-sizing e Box-shadow
+
 * {
     box-sizing: border-box;
 }
@@ -170,3 +173,20 @@ h3 {
     padding: 20px;
     box-shadow: 10px 10px 5px green;
 }
+
+*/
+
+
+/* Aprendendo a mexer co Overflow e Opacity
+
+#conteudo {
+    background-color: red;
+    width: 200px;
+    height: 50px;
+    overflow: auto
+}
+
+#conteudo p{
+    opacity: 1
+}
+*/
