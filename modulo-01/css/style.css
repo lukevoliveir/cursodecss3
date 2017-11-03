@@ -221,10 +221,11 @@ p {
 */
 
 
-/* aprendo a mexer com as cores 
+/* aprendo a mexer com as cores e gradients 
+
 #cores {
     width: 200px;
     height: 200px;
-    background-color:navy;
+    background: radial-gradient( red, green);
 }
 */
