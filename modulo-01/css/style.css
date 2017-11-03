@@ -70,23 +70,39 @@ p {
 */
 
 
-/*estilizando pela class */
+/*estilizando pela class 
 
 .texto-principal {
     color: red;
     text-align: center;
 }
 
+
 .fundo-principal {
     background-color: green;
     padding: 20px;
 }
 
+*/
 
-/*estilizando pelo id */
+
+/*estilizando pelo id 
 
 #conteudo {
     background-color: blue;
     padding: 20px;
     color: yellow;
+}
+
+*/
+
+
+/*aprendendo a mexer com dimensão*/
+
+#conteudo {
+    min-width: 500px;
+    max-height: 200px;
+    background-color: green;
+    color: yellow;
+    padding: 20px;
 }
