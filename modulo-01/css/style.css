@@ -1,12 +1,14 @@
-/*Seletor Universal */
+/*Seletor Universal 
 
 * {
     margin: 0;
     padding: 0;
 }
 
+*/
 
-/*Seletor por Tag */
+
+/*Seletor por Tag 
 
 h1 {
     color: blue;
@@ -17,9 +19,10 @@ p {
     color: green;
     font-size: 16px;
 }
+*/
 
 
-/*seletor por atributo*/
+/*seletor por atributo
 
 input[type="text"] {
     width: 200px;
@@ -44,6 +47,8 @@ input[type="submit"] {
     color: yellowgreen;
 }
 
+*/
+
 
 /* AULA 01
 h1 {
@@ -52,3 +57,13 @@ h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 } 
 */
+
+
+/*Aula de Agrupamento de seletores*/
+
+h1,
+h2,
+p {
+    color: red;
+    text-align: center;
+}
