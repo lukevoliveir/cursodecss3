@@ -97,7 +97,7 @@ p {
 */
 
 
-/*aprendendo a mexer com dimensão*/
+/*aprendendo a mexer com dimensão
 
 #conteudo {
     min-width: 500px;
@@ -105,4 +105,23 @@ p {
     background-color: green;
     color: yellow;
     padding: 20px;
+}
+
+*/
+
+
+/*Aprendo a mexer com Padding e Margin*/
+
+#exemplo {
+    background-color: blue;
+    color: yellow;
+    width: 500px;
+    padding: 10px 20px 30px 20px;
+}
+
+#exemplo2 {
+    background-color: red;
+    color: white;
+    width: 500px;
+    margin: 30px 0px 0px 20px;
 }
