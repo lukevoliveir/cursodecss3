@@ -59,11 +59,34 @@ h1 {
 */
 
 
-/*Aula de Agrupamento de seletores*/
+/*Aula de Agrupamento de seletores
 
 h1,
 h2,
 p {
     color: red;
     text-align: center;
+}
+*/
+
+
+/*estilizando pela class */
+
+.texto-principal {
+    color: red;
+    text-align: center;
+}
+
+.fundo-principal {
+    background-color: green;
+    padding: 20px;
+}
+
+
+/*estilizando pelo id */
+
+#conteudo {
+    background-color: blue;
+    padding: 20px;
+    color: yellow;
 }
