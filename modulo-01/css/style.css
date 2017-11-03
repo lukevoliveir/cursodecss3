@@ -128,6 +128,9 @@ p {
 
 */
 
+
+/* Aprendo a estilizar texto 
+
 p {
     color: red;
     text-transform: initial;
@@ -153,4 +156,17 @@ h2 {
 h3 {
     text-align: center;
     text-decoration: line-through;
+}
+
+*/
+
+* {
+    box-sizing: border-box;
+}
+
+#conteudo {
+    background-color: red;
+    width: 300px;
+    padding: 20px;
+    box-shadow: 10px 10px 5px green;
 }
