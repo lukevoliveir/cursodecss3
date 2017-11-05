@@ -253,3 +253,18 @@ p {
     float: right;
 }
 */
+
+#conteudo {
+    width: 600px;
+    height: 1200px;
+    background-color: red;
+    position: relative;
+}
+
+#texto {
+    width: 500px;
+    background-color: green;
+    position: absolute;
+    left: 0px;
+    top: 40px;
+}
