@@ -301,3 +301,21 @@ p {
     background-color: brown;
 }
 */
+
+
+/* Aprendendo a mexer com backgroud
+
+body {
+    background-image: url(../img/pac-man.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+p {
+    color: white;
+    width: 200px;
+    height: 200px;
+}
+
+*/
