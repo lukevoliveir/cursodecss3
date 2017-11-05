@@ -282,3 +282,22 @@ p {
     outline: groove 2px blue;
 }
 */
+
+
+/* Aprendendo a mexer com Trasition
+#exemplo {
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    transition-property: width height;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+    transition-delay: 1s;
+}
+
+#exemplo:hover {
+    width: 350px;
+    height: 350px;
+    background-color: brown;
+}
+*/
