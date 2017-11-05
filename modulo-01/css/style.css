@@ -254,6 +254,9 @@ p {
 }
 */
 
+
+/*Aprendendo a posicionar qualquer elemento html
+
 #conteudo {
     width: 600px;
     height: 1200px;
@@ -268,3 +271,14 @@ p {
     left: 0px;
     top: 40px;
 }
+
+*/
+
+
+/*Aprendendo a mexer com border e outline
+
+#exemplo {
+    border: solid 3px green;
+    outline: groove 2px blue;
+}
+*/
